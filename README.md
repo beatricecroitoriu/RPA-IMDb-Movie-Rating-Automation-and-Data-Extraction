@@ -1,0 +1,1 @@
+This project automates the process of reading movie titles and ratings from an Excel file, searching each title on IMDb, allocating the specified rating, retrieving detailed information (description, directors, writers, stars), and saving all the data into a new Excel file. At the end of the process, the project automatically sends an email with the output Excel file attached.
